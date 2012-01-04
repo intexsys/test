@@ -16,5 +16,7 @@ class Dummy
     function beSmart()
     {
         echo 'I\'m smart';
+        // change 1
+        // change 2
     }
 }
