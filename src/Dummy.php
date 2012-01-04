@@ -12,4 +12,9 @@ class Dummy
     {
         echo 'I\'m dumb!';
     }
+
+    function beSmart()
+    {
+        echo 'I\'m smart';
+    }
 }
